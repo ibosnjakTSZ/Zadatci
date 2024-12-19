@@ -1,0 +1,15 @@
+#prvi {
+    line-height: 0.5;
+    word-spacing: -5px;
+}
+
+#drugi {
+    line-height: 1.5;
+    direction: rtl;
+    word-spacing: 15px;
+}
+
+#treći {
+    line-height: 15;
+    word-spacing: -1px;
+}

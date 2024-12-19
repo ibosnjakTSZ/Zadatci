@@ -1,0 +1,11 @@
+#kap {
+    text-transform: uppercase;
+    color: red;
+    text-decoration: overline;
+    text-indent: 20px;
+    letter-spacing: 2px;
+}
+
+#slip {
+    letter-spacing: -2px;
+}

@@ -1,0 +1,15 @@
+p:first-of-type > a {
+    background-color: green;
+}
+
+p:nth-of-type(2) > a {
+    background-color: red;
+}
+
+p:last-of-type > a {
+    background-color: yellow;
+}
+
+a:hover {
+    background-color: rgba(0,0,0,0);
+}
